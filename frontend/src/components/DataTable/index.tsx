@@ -1,6 +1,5 @@
 function DataTable() {
   return (
-    <div>
       <div className="table-responsive">
         <table className="table table-striped table-sm">
           <thead>
@@ -86,7 +85,6 @@ function DataTable() {
           </tbody>
         </table>
       </div>
-    </div>
   );
 }
 

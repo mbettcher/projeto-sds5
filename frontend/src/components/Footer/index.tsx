@@ -1,6 +1,5 @@
 function Footer() {
   return (
-    <div>
       <footer className="footer mt-auto py-3 bg-dark">
         <div className="container">
           <p className="text-light">
@@ -29,7 +28,6 @@ function Footer() {
           </p>
         </div>
       </footer>
-    </div>
   );
 }
 
